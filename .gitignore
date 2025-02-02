@@ -169,3 +169,30 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore data files
+*.csv
+*.json
+*.xlsx
+*.data
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore output files
+*.html
+*.md
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
