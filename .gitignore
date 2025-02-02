@@ -170,13 +170,13 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Ignore data files
+# Ignore dataset files (to keep data off GitHub)
 *.csv
 *.json
 *.xlsx
 *.data
 
-# Ignore Jupyter Notebook checkpoints
+# Ignore Jupyter Notebook checkpoints (auto-generated)
 .ipynb_checkpoints/
 
 # Ignore Python cache and compiled files
@@ -188,10 +188,6 @@ __pycache__/
 # Ignore virtual environments
 venv/
 env/
-
-# Ignore output files
-*.html
-*.md
 
 # Ignore system files (Mac & Windows)
 .DS_Store
