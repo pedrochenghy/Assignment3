@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-file_path = "Pokemon (1).csv"
+file_path = "../data/Pokemon (1).csv"
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
