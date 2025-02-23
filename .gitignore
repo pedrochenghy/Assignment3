@@ -192,3 +192,11 @@ env/
 # Ignore system files (Mac & Windows)
 .DS_Store
 Thumbs.db
+
+# Ignore data files
+data/
+clean_data/
+
+# Ignore Jupyter Notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
