@@ -1,15 +1,40 @@
+Question: Do I think merging the branch has made my project stronger?
+Answer: Yes, the changes in new branch last time made in the “assignment5” branch did improve the project significantly in several ways as follows:
+
+Improved Organization and Structure
+The "assignment5" branch introduces a better-managed folder structure with folders like “clean_data”, “data”, “docs”, “results”, and “scripts”.
+This makes it easier to locate and manage different components of the project. In the main (original) branch, all files were stored at the root level, which could become messy as the project scales.
+
+Enhanced Maintainability
+Organizing files into dedicated folders improves maintainability and readability.
+It segregates raw data, cleaned data, code scripts, and documentation logically, making it easier for collaborators (including the instructors) to understand and contribute to the project.
+
+File Referencing with Relative Paths
+The update to file paths inside the code ensures that all references to files are relative rather than absolute.
+This is fundamental for collaboration as team members can run the code on their machines without modifying file paths, and the project remains portable and functioning across different systems.
+
+Version Control & Progress Tracking
+The "assignment5" branch is 21 “commits” ahead of the main branch, (usually) indicating significant progress and improvements.
+The commit history in "assignment5" reflects incremental enhancements that were properly documented for future references.
+
+The changes significantly improved the project in terms of organization, usability, maintainability, and compliance with the best practices.
+Keeping these improvements will make my repository more efficient and accessible for both personal use and collaboration.
+
+-----------------
+Epilogue:
+
 I was supposed to make some changes here in this last assignment. Nothing new came to the top of my head on my analysis of the Pokemon dataset.
 I ran through the comments of Amy on my previous submissions and those I didn't do well was deviations from best practices or under-explanation in write-ups.
 So, I figured, why don't I write something about this course.
 
-Not going to lie, I didn't expect much from this course at first - we weren't well-trained in Python or any programming languages like the students from the CST program.
+Not gonna lie, I didn't expect much from this course at first - we weren't well-trained in Python or any programming languages like the students from the CST program or Engineering School in general
 We weren't even experienced in analyzing data. I mean, we barely just learned how to use PowerQuery and Power BI last term. How can we perform to impress?
 
 Fast forward to date as I don't want to over-write too much while I still got a lot of midterms and finals to prepare.
 I'm actually grateful for what I learnt from this course. Not only do I know more about GitHub, but I actually got to practice Python more.
 I'm more confident to tell people that I know Python (but still, like beginner level).
 I remember back when we did the "Automation" assignment. I'm genuinely impressed by my own work.
-I could see something that might come in handy in my future work.
+I could see something that may come in handy in my future work.
 That excites me quite a lot.
 
 Thank you.
